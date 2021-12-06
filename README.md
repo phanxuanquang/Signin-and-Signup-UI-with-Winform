@@ -1,4 +1,4 @@
-# Signin-and-Signup-UI---Winform
+# Signin and Signup UI on Winform
 Giả lập trình đăng nhập và đăng ký tài khoản trên Windows Forms 
 (Simulate login and account registration on Windows Forms )
 ______________________________
